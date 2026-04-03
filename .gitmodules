@@ -10,3 +10,7 @@
 	path = modules/mod-junk-to-gold
 	url = https://github.com/noisiver/mod-junk-to-gold
 	branch = master
+[submodule "modules/mod-ollama-chat"]
+	path = modules/mod-ollama-chat
+	url = https://github.com/DustinHendrickson/mod-ollama-chat
+	branch = main
