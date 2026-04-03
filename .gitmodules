@@ -6,3 +6,7 @@
 	path = modules/mod-player-bot-level-brackets
 	url = https://github.com/DustinHendrickson/mod-player-bot-level-brackets
 	branch = main
+[submodule "modules/mod-junk-to-gold"]
+	path = modules/mod-junk-to-gold
+	url = https://github.com/noisiver/mod-junk-to-gold
+	branch = master
